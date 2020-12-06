@@ -1,3 +1,5 @@
+                https://api.altv.mp/server/+ServerID
+                
                 maxPlayers = body.info.maxPlayers;
                 players = body.info.players;
                 name = body.info.name;
