@@ -1,4 +1,8 @@
+                // find your serverid            
                 https://api.altv.mp/server/+ServerID
+                
+                // total running servers
+                https://api.altv.mp/servers/
                 
                 maxPlayers = body.info.maxPlayers;
                 players = body.info.players;
