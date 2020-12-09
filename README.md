@@ -1,5 +1,5 @@
                 // find your serverid            
-                https://api.altv.mp/server/+ServerID
+                https://api.altv.mp/servers/list
                 
                 // total running servers
                 https://api.altv.mp/servers/
